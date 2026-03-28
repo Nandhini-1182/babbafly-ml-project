@@ -9,8 +9,9 @@ This project predicts product prices using Machine Learning.
 
 ## Results
 - R² Score: 0.99
-##Visualization
-###Actual vs predicted graph
+
+## Visualization
+### Actual vs predicted graph
 
 
 ## API
